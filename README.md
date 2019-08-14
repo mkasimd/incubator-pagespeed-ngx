@@ -22,13 +22,13 @@ optimizations, see our <a href="http://ngxpagespeed.com">demonstration site</a>.
 ## How to build
 
 Follow the steps on <a
-href="https://developers.google.com/speed/pagespeed/module/build_ngx_pagespeed_from_source">build
+href="https://www.modpagespeed.com/doc/build_ngx_pagespeed_from_source">build
 ngx_pagespeed from source</a>.
 
 ## How to use
 
 Follow the steps on <a
-href="https://developers.google.com/speed/pagespeed/module/configuration">PageSpeed
+href="https://www.modpagespeed.com/doc/configuration">PageSpeed
 configuration</a>.
 
 For feedback, questions, and to follow
